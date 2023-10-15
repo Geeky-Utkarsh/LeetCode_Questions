@@ -11,6 +11,7 @@ public:
 
         // for TCof O(log n)
         int x=num;
+        
         int lo=0;
         int hi=x;
         
