@@ -82,7 +82,6 @@
 // };
 class Solution {
 public:
-    //This function is already taught in my YouTube Video - https://www.youtube.com/watch?v=Op07kT-LoH8 ("Peak Index in a Mountain Array")
     int peakIndexInMountainArray(MountainArray &mountainArr) {
         int n = mountainArr.length();
         
