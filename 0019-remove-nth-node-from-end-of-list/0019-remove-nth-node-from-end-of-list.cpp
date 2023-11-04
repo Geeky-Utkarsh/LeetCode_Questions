@@ -27,7 +27,7 @@ public:
       int m=len-n+1;
       int idx=m-1; // address index of the node to be deleted (1-node before the actual one )
       temp=head;
-      for(int i=0; i<=idx-2; i++){
+      for(int i=1; i<=idx-1; i++){
           temp=temp->next;
       }
     //now temp is hold the address of (n-1)th node from start se
