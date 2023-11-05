@@ -41,23 +41,20 @@ public:
             for(int i=0; i<diff; i++){
                 tempA=tempA->next;
             }
-            while(tempA!=tempB){
-                tempA=tempA->next;
-                tempB=tempB->next;
-            }
-            return tempA;
+
         }
         else{
             int diff=lenB-lenA;
             for(int i=0; i<diff; i++){
                 tempB=tempB->next;
             }
-            while(tempA!=tempB){
-                tempA=tempA->next;
-                tempB=tempB->next;
-            }
-            return tempA;
+
         }
+        while(tempA!=tempB){
+            tempA=tempA->next;
+            tempB=tempB->next;
+        }
+        return tempA;
       }
     // }
 };
