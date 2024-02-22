@@ -10,6 +10,9 @@ public:
     
     return sumOf_n_numbers-vsum;
 
+// Approach -2 => Using Bit manipulation and XOR-property
+
+
 // Approach -4 => simply sorting 
 
         // sort(nums.begin(), nums.end());
