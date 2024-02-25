@@ -18,7 +18,7 @@ public:
     //     }
     //     return arr;
 
-    // 2nd approach 
+    // 2nd approach --> using a set based approach 
 
     unordered_set<int>uniqueEle;
 
