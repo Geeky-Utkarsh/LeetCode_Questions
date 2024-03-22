@@ -1,5 +1,5 @@
 class Solution {
-
+            
 private:
        ListNode* reversedLinkedList(ListNode *head){
            ListNode*prev=nullptr;
