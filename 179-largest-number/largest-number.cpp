@@ -14,6 +14,8 @@ public:
         if (allZero) 
              return "0";
 
+        // custom sorting the nums (concatenation sorting , sorting the string in the order in which when they are
+        // concatenated they will form the greater string)
         sort(nums.begin(),nums.end(),[&](int a, int b){
             string aa=to_string(a);
             string bb=to_string(b);
