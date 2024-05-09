@@ -1,39 +1,19 @@
-// class Solution {
-// public:
-//     char repeatedCharacter(string s) {
-//         unordered_map<char,int>mp;
+class Solution {
+public:
+    char repeatedCharacter(string s) {
+        // Here we will keep the track of all the elements from left to right in a set 
+        // if we meet same value again <=> it occurred twice 
 
-//         for(auto it=s.begin(); it!=s.end(); ++it){
-//             mp[*it]++;
-//         }
+        unordered_set<char>set;
 
-//         char res;
-//         for(auto it=s.begin(); it!=s.end(); ++it){
-//             if(mp.count(*it)&&mp[*it]==2)
-//             res=*it;
-//             // break;
-//         }
-//         return res;
-//     }
-// };
-class Solution{
-    public:
-         char repeatedCharacter(string s){
-             map<char,int>mp;
+        for(int i=0; i<s.size(); i++){
+            if(set.find(s[i])!=set.end())
+              return s[i];
+              
+            set.insert(s[i]); // keep inserting element into the set 
 
-             char res='\0';
-            //  for(int i=0; i<s.size(); i++){
-            //      mp[s[i]]++;
 
-            //      if(mp[s[i]]==2)
-            //       return s[i];
-            //  }
-            for(auto it=s.begin(); it!=s.end(); it++){
-                mp[*it]++;
-
-                if(mp[*it]==2)
-                return *it;
-            }
-             return -1;
-         }         
-}; 
+        }
+        return 0;
+    }
+};
