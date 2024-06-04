@@ -19,3 +19,15 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/27481/LeetCode_Questions/tree/master/1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
+# Array
+|  |
+| ------- |
+| [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/27481/LeetCode_Questions/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
+# Binary Search
+|  |
+| ------- |
+| [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/27481/LeetCode_Questions/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
+# Sorting
+|  |
+| ------- |
+| [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/27481/LeetCode_Questions/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
