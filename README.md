@@ -5,6 +5,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Two Pointers
 |  |
 | ------- |
+| [0633-sum-of-square-numbers](https://github.com/27481/LeetCode_Questions/tree/master/0633-sum-of-square-numbers) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/27481/LeetCode_Questions/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 # String
 |  |
@@ -39,6 +40,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Binary Search
 |  |
 | ------- |
+| [0633-sum-of-square-numbers](https://github.com/27481/LeetCode_Questions/tree/master/0633-sum-of-square-numbers) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/27481/LeetCode_Questions/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 # Sorting
 |  |
@@ -69,3 +71,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1137-height-checker](https://github.com/27481/LeetCode_Questions/tree/master/1137-height-checker) |
+# Math
+|  |
+| ------- |
+| [0633-sum-of-square-numbers](https://github.com/27481/LeetCode_Questions/tree/master/0633-sum-of-square-numbers) |
