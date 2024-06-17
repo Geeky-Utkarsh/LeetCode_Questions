@@ -28,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Array
 |  |
 | ------- |
+| [0414-third-maximum-number](https://github.com/27481/LeetCode_Questions/tree/master/0414-third-maximum-number) |
 | [0560-subarray-sum-equals-k](https://github.com/27481/LeetCode_Questions/tree/master/0560-subarray-sum-equals-k) |
 | [0648-replace-words](https://github.com/27481/LeetCode_Questions/tree/master/0648-replace-words) |
 | [0876-hand-of-straights](https://github.com/27481/LeetCode_Questions/tree/master/0876-hand-of-straights) |
@@ -42,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Sorting
 |  |
 | ------- |
+| [0414-third-maximum-number](https://github.com/27481/LeetCode_Questions/tree/master/0414-third-maximum-number) |
 | [0876-hand-of-straights](https://github.com/27481/LeetCode_Questions/tree/master/0876-hand-of-straights) |
 | [1137-height-checker](https://github.com/27481/LeetCode_Questions/tree/master/1137-height-checker) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/27481/LeetCode_Questions/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
