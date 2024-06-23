@@ -26,7 +26,7 @@ public:
             if(it.second%2==0){ // if the frequency is even then we add length+=2;
                 even_occurrences+=it.second;
             }
-            else {  // // if the frequency is odd then we add length+=2;
+            else {  // // if the frequency is odd then we add length+=odd+frequency-1;
                 odd_occurrences+=it.second-1;
                 oddFreq=true;
             }
