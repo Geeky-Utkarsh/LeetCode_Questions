@@ -40,6 +40,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/27481/LeetCode_Questions/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/27481/LeetCode_Questions/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [2270-find-all-lonely-numbers-in-the-array](https://github.com/27481/LeetCode_Questions/tree/master/2270-find-all-lonely-numbers-in-the-array) |
+| [2679-count-distinct-numbers-on-board](https://github.com/27481/LeetCode_Questions/tree/master/2679-count-distinct-numbers-on-board) |
 # Binary Search
 |  |
 | ------- |
@@ -63,6 +64,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1044-find-common-characters](https://github.com/27481/LeetCode_Questions/tree/master/1044-find-common-characters) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/27481/LeetCode_Questions/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [2270-find-all-lonely-numbers-in-the-array](https://github.com/27481/LeetCode_Questions/tree/master/2270-find-all-lonely-numbers-in-the-array) |
+| [2679-count-distinct-numbers-on-board](https://github.com/27481/LeetCode_Questions/tree/master/2679-count-distinct-numbers-on-board) |
 # Trie
 |  |
 | ------- |
@@ -80,6 +82,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0633-sum-of-square-numbers](https://github.com/27481/LeetCode_Questions/tree/master/0633-sum-of-square-numbers) |
+| [2679-count-distinct-numbers-on-board](https://github.com/27481/LeetCode_Questions/tree/master/2679-count-distinct-numbers-on-board) |
 # Queue
 |  |
 | ------- |
@@ -100,3 +103,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/27481/LeetCode_Questions/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+# Simulation
+|  |
+| ------- |
+| [2679-count-distinct-numbers-on-board](https://github.com/27481/LeetCode_Questions/tree/master/2679-count-distinct-numbers-on-board) |
