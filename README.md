@@ -108,3 +108,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2679-count-distinct-numbers-on-board](https://github.com/27481/LeetCode_Questions/tree/master/2679-count-distinct-numbers-on-board) |
+# Graph
+|  |
+| ------- |
+| [1916-find-center-of-star-graph](https://github.com/27481/LeetCode_Questions/tree/master/1916-find-center-of-star-graph) |
