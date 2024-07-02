@@ -119,6 +119,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/27481/LeetCode_Questions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0807-custom-sort-string](https://github.com/27481/LeetCode_Questions/tree/master/0807-custom-sort-string) |
+| [2331-intersection-of-multiple-arrays](https://github.com/27481/LeetCode_Questions/tree/master/2331-intersection-of-multiple-arrays) |
 ## String
 |  |
 | ------- |
@@ -129,6 +130,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/27481/LeetCode_Questions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0807-custom-sort-string](https://github.com/27481/LeetCode_Questions/tree/master/0807-custom-sort-string) |
+| [2331-intersection-of-multiple-arrays](https://github.com/27481/LeetCode_Questions/tree/master/2331-intersection-of-multiple-arrays) |
 ## Two Pointers
 |  |
 | ------- |
@@ -138,8 +140,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/27481/LeetCode_Questions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [2331-intersection-of-multiple-arrays](https://github.com/27481/LeetCode_Questions/tree/master/2331-intersection-of-multiple-arrays) |
 ## Binary Search
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/27481/LeetCode_Questions/tree/master/0350-intersection-of-two-arrays-ii) |
+## Counting
+|  |
+| ------- |
+| [2331-intersection-of-multiple-arrays](https://github.com/27481/LeetCode_Questions/tree/master/2331-intersection-of-multiple-arrays) |
 <!---LeetCode Topics End-->
