@@ -16,15 +16,14 @@ public:
 
         for(auto &e : nums){
 
-            vector<int>vec={e.begin(), e.end()};
-
+            // vector<int>vec={e.begin(), e.end()};
             // mapping into the map 
-            for(auto &it : vec){
+            
+            for(auto &it : e){
                 mp[it]++;
             }
         }
      // now we have push each element into the res vector whose occurrence==size of nums
-
         vector<int>r;
 
         for(auto &it : mp){
