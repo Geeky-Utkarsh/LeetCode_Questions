@@ -141,6 +141,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/27481/LeetCode_Questions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [1496-lucky-numbers-in-a-matrix](https://github.com/27481/LeetCode_Questions/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [2331-intersection-of-multiple-arrays](https://github.com/27481/LeetCode_Questions/tree/master/2331-intersection-of-multiple-arrays) |
 ## Binary Search
 |  |
@@ -158,4 +159,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/27481/LeetCode_Questions/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
+## Matrix
+|  |
+| ------- |
+| [1496-lucky-numbers-in-a-matrix](https://github.com/27481/LeetCode_Questions/tree/master/1496-lucky-numbers-in-a-matrix) |
 <!---LeetCode Topics End-->
