@@ -203,4 +203,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/27481/LeetCode_Questions/tree/master/0948-sort-an-array) |
+## Math
+|  |
+| ------- |
+| [1585-the-kth-factor-of-n](https://github.com/27481/LeetCode_Questions/tree/master/1585-the-kth-factor-of-n) |
+## Number Theory
+|  |
+| ------- |
+| [1585-the-kth-factor-of-n](https://github.com/27481/LeetCode_Questions/tree/master/1585-the-kth-factor-of-n) |
 <!---LeetCode Topics End-->
