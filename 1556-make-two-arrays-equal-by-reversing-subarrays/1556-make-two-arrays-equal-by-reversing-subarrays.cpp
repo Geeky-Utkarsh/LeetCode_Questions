@@ -54,11 +54,11 @@ public:
             if(f.find(t)==f.end()){
                 return false;
             }
-            f[t]--;
+            f[t]--; // decreasing the value(i.e occurrence ) by 1 
 
-            if(f[t]==0)
-               f.erase(t);
+            if(f[t]==0)  // if occurrence ==0
+               f.erase(t);  // then erasing that k:v pair from the map
         }
-        return f.size()==0; 
+        return f.size()==0;  // if size of map ==0 means all elements were removed
     }
 };
