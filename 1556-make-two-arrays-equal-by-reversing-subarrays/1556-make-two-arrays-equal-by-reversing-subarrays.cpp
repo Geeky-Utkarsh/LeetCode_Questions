@@ -14,7 +14,7 @@ public:
 
 // +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
-class Solution{
+class Solution2{
 public:
     bool canBeEqual(vector<int>& target, vector<int>& arr) {
         // using Frequnecy array 
@@ -34,5 +34,31 @@ public:
                return false;
         }
         return true;
+    }
+};
+
+
+// +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+class Solution{
+public:
+    bool canBeEqual(vector<int>& target, vector<int>& arr) {
+        // Hashmap based approach 
+        unordered_map<int,int>f;
+
+        for(int &e : arr){
+            f[e]++;
+        }
+        // removing the common elements from the unordered map f
+        for(int &t : target){
+            if(f.find(t)==f.end()){
+                return false;
+            }
+            f[t]--;
+
+            if(f[t]==0)
+               f.erase(t);
+        }
+        return f.size()==0; 
     }
 };
