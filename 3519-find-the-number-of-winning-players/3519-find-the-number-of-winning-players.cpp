@@ -1,4 +1,4 @@
-class Solution1{
+class Solution{
 public:
     int winningPlayerCount(int n, vector<vector<int>>& pick) {
     // Player 1 wins , if they pick at leat 2 balls of the same color 
@@ -25,6 +25,7 @@ public:
         for(auto &e : f[i]){
             if(e.second>i){
                 winner_cnt++;
+                break;
             }
         }
     }
@@ -33,7 +34,7 @@ public:
     }
 };
 // ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-class Solution{
+class Solution1{
 public:
     int winningPlayerCount(int n, vector<vector<int>>& pick) {
     // Player 1 wins , if they pick at leat 2 balls of the same color 
