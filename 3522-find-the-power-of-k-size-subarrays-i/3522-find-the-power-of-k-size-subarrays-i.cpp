@@ -8,7 +8,7 @@ public:
         bool isValid = true;
 
         // Check if the current window is consecutive and sorted
-        for (int j=i+1; j <i+k; ++j) {
+        for (int j=i+1; j<i+k; ++j) {
             if (nums[j]!=nums[j-1]+1){
                 isValid=false;
                 break;
