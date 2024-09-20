@@ -125,6 +125,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/27481/LeetCode_Questions/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/27481/LeetCode_Questions/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/27481/LeetCode_Questions/tree/master/1786-count-the-number-of-consistent-strings) |
+| [2163-kth-distinct-string-in-an-array](https://github.com/27481/LeetCode_Questions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2308-divide-array-into-equal-pairs](https://github.com/27481/LeetCode_Questions/tree/master/2308-divide-array-into-equal-pairs) |
 | [2331-intersection-of-multiple-arrays](https://github.com/27481/LeetCode_Questions/tree/master/2331-intersection-of-multiple-arrays) |
 | [2388-replace-elements-in-an-array](https://github.com/27481/LeetCode_Questions/tree/master/2388-replace-elements-in-an-array) |
@@ -140,6 +141,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/27481/LeetCode_Questions/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/27481/LeetCode_Questions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1894-merge-strings-alternately](https://github.com/27481/LeetCode_Questions/tree/master/1894-merge-strings-alternately) |
+| [2163-kth-distinct-string-in-an-array](https://github.com/27481/LeetCode_Questions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2502-sort-the-people](https://github.com/27481/LeetCode_Questions/tree/master/2502-sort-the-people) |
 | [2727-number-of-senior-citizens](https://github.com/27481/LeetCode_Questions/tree/master/2727-number-of-senior-citizens) |
 ## Sorting
@@ -174,6 +176,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1741-sort-array-by-increasing-frequency](https://github.com/27481/LeetCode_Questions/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/27481/LeetCode_Questions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/27481/LeetCode_Questions/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2163-kth-distinct-string-in-an-array](https://github.com/27481/LeetCode_Questions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/27481/LeetCode_Questions/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2308-divide-array-into-equal-pairs](https://github.com/27481/LeetCode_Questions/tree/master/2308-divide-array-into-equal-pairs) |
 | [2331-intersection-of-multiple-arrays](https://github.com/27481/LeetCode_Questions/tree/master/2331-intersection-of-multiple-arrays) |
@@ -192,6 +195,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0920-uncommon-words-from-two-sentences](https://github.com/27481/LeetCode_Questions/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/27481/LeetCode_Questions/tree/master/1786-count-the-number-of-consistent-strings) |
+| [2163-kth-distinct-string-in-an-array](https://github.com/27481/LeetCode_Questions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2308-divide-array-into-equal-pairs](https://github.com/27481/LeetCode_Questions/tree/master/2308-divide-array-into-equal-pairs) |
 | [2331-intersection-of-multiple-arrays](https://github.com/27481/LeetCode_Questions/tree/master/2331-intersection-of-multiple-arrays) |
 | [3519-find-the-number-of-winning-players](https://github.com/27481/LeetCode_Questions/tree/master/3519-find-the-number-of-winning-players) |
