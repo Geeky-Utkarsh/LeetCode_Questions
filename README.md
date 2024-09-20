@@ -117,6 +117,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/27481/LeetCode_Questions/tree/master/0001-two-sum) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/27481/LeetCode_Questions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/27481/LeetCode_Questions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0807-custom-sort-string](https://github.com/27481/LeetCode_Questions/tree/master/0807-custom-sort-string) |
@@ -161,6 +162,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/27481/LeetCode_Questions/tree/master/0001-two-sum) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/27481/LeetCode_Questions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/27481/LeetCode_Questions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0948-sort-an-array](https://github.com/27481/LeetCode_Questions/tree/master/0948-sort-an-array) |
