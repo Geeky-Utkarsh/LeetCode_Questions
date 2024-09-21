@@ -158,6 +158,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/27481/LeetCode_Questions/tree/master/0031-next-permutation) |
 | [0125-valid-palindrome](https://github.com/27481/LeetCode_Questions/tree/master/0125-valid-palindrome) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/27481/LeetCode_Questions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/27481/LeetCode_Questions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
@@ -167,6 +168,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/27481/LeetCode_Questions/tree/master/0001-two-sum) |
+| [0031-next-permutation](https://github.com/27481/LeetCode_Questions/tree/master/0031-next-permutation) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/27481/LeetCode_Questions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/27481/LeetCode_Questions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0948-sort-an-array](https://github.com/27481/LeetCode_Questions/tree/master/0948-sort-an-array) |
