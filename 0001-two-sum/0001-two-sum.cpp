@@ -14,7 +14,7 @@ public:
         return {};
     }
 };
-class Solution{
+class Solution2{
 public:
     vector<int> twoSum(vector<int>& nums, int target) {
         unordered_map<int,int>f;
@@ -32,6 +32,25 @@ public:
                 return {f[to_find],i};
             }     
             // f[val]=i;       
+        }
+        return {};
+    }
+};
+
+class Solution{
+public:
+    vector<int> twoSum(vector<int>& nums, int target) {
+        unordered_map<int,int>f; 
+
+        for(int i=0; i<nums.size(); i++){
+            int val=nums[i];
+            int to_find=target-val;
+
+            // Checking if the compliment exits in the map or not
+            if(f.find(to_find)!=f.end()){
+                return {f[to_find],i};
+            }     
+            f[val]=i;       
         }
         return {};
     }
