@@ -168,6 +168,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0125-valid-palindrome](https://github.com/27481/LeetCode_Questions/tree/master/0125-valid-palindrome) |
 | [0202-happy-number](https://github.com/27481/LeetCode_Questions/tree/master/0202-happy-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/27481/LeetCode_Questions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0528-swapping-nodes-in-a-linked-list](https://github.com/27481/LeetCode_Questions/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/27481/LeetCode_Questions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1894-merge-strings-alternately](https://github.com/27481/LeetCode_Questions/tree/master/1894-merge-strings-alternately) |
 | [2481-strictly-palindromic-number](https://github.com/27481/LeetCode_Questions/tree/master/2481-strictly-palindromic-number) |
@@ -216,6 +217,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Linked List
 |  |
 | ------- |
+| [0528-swapping-nodes-in-a-linked-list](https://github.com/27481/LeetCode_Questions/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/27481/LeetCode_Questions/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/27481/LeetCode_Questions/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/27481/LeetCode_Questions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
