@@ -146,6 +146,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/27481/LeetCode_Questions/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/27481/LeetCode_Questions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1894-merge-strings-alternately](https://github.com/27481/LeetCode_Questions/tree/master/1894-merge-strings-alternately) |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/27481/LeetCode_Questions/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/27481/LeetCode_Questions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2502-sort-the-people](https://github.com/27481/LeetCode_Questions/tree/master/2502-sort-the-people) |
 | [2532-remove-letter-to-equalize-frequency](https://github.com/27481/LeetCode_Questions/tree/master/2532-remove-letter-to-equalize-frequency) |
@@ -172,6 +173,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/27481/LeetCode_Questions/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/27481/LeetCode_Questions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1894-merge-strings-alternately](https://github.com/27481/LeetCode_Questions/tree/master/1894-merge-strings-alternately) |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/27481/LeetCode_Questions/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2481-strictly-palindromic-number](https://github.com/27481/LeetCode_Questions/tree/master/2481-strictly-palindromic-number) |
 ## Array
 |  |
@@ -226,6 +228,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/27481/LeetCode_Questions/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/27481/LeetCode_Questions/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/27481/LeetCode_Questions/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Matrix
 |  |
@@ -293,4 +296,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2132-convert-1d-array-into-2d-array](https://github.com/27481/LeetCode_Questions/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2388-replace-elements-in-an-array](https://github.com/27481/LeetCode_Questions/tree/master/2388-replace-elements-in-an-array) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/27481/LeetCode_Questions/tree/master/2800-minimum-string-length-after-removing-substrings) |
+## Greedy
+|  |
+| ------- |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/27481/LeetCode_Questions/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 <!---LeetCode Topics End-->
