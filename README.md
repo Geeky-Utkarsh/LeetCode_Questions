@@ -194,6 +194,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2308-divide-array-into-equal-pairs](https://github.com/27481/LeetCode_Questions/tree/master/2308-divide-array-into-equal-pairs) |
 | [2331-intersection-of-multiple-arrays](https://github.com/27481/LeetCode_Questions/tree/master/2331-intersection-of-multiple-arrays) |
 | [2388-replace-elements-in-an-array](https://github.com/27481/LeetCode_Questions/tree/master/2388-replace-elements-in-an-array) |
+| [2454-largest-local-values-in-a-matrix](https://github.com/27481/LeetCode_Questions/tree/master/2454-largest-local-values-in-a-matrix) |
 | [2502-sort-the-people](https://github.com/27481/LeetCode_Questions/tree/master/2502-sort-the-people) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/27481/LeetCode_Questions/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2727-number-of-senior-citizens](https://github.com/27481/LeetCode_Questions/tree/master/2727-number-of-senior-citizens) |
@@ -236,6 +237,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/27481/LeetCode_Questions/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/27481/LeetCode_Questions/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2454-largest-local-values-in-a-matrix](https://github.com/27481/LeetCode_Questions/tree/master/2454-largest-local-values-in-a-matrix) |
 | [3415-check-if-grid-satisfies-conditions](https://github.com/27481/LeetCode_Questions/tree/master/3415-check-if-grid-satisfies-conditions) |
 ## Bit Manipulation
 |  |
