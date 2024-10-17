@@ -198,6 +198,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2454-largest-local-values-in-a-matrix](https://github.com/27481/LeetCode_Questions/tree/master/2454-largest-local-values-in-a-matrix) |
 | [2502-sort-the-people](https://github.com/27481/LeetCode_Questions/tree/master/2502-sort-the-people) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/27481/LeetCode_Questions/tree/master/2616-maximal-score-after-applying-k-operations) |
+| [2714-left-and-right-sum-differences](https://github.com/27481/LeetCode_Questions/tree/master/2714-left-and-right-sum-differences) |
 | [2727-number-of-senior-citizens](https://github.com/27481/LeetCode_Questions/tree/master/2727-number-of-senior-citizens) |
 | [3415-check-if-grid-satisfies-conditions](https://github.com/27481/LeetCode_Questions/tree/master/3415-check-if-grid-satisfies-conditions) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/27481/LeetCode_Questions/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
@@ -310,4 +311,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/27481/LeetCode_Questions/tree/master/0724-find-pivot-index) |
+| [2714-left-and-right-sum-differences](https://github.com/27481/LeetCode_Questions/tree/master/2714-left-and-right-sum-differences) |
 <!---LeetCode Topics End-->
