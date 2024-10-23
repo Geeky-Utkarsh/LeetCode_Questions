@@ -1,4 +1,4 @@
-class Solution {
+class Solution1 {
 public:
     TreeNode* replaceValueInTree(TreeNode* root){
       // Step 1=> Find levelSum 
@@ -68,4 +68,49 @@ public:
 
     // TC-> O(2*n)     we traversed tree by using BFS 2 times 
     // SC-> O(n)+O(n)  we used a vetor for storing level sum + queue which will store all nodes in worst case  
+};
+
+class Solution {
+public:
+    TreeNode* replaceValueInTree(TreeNode* root){
+        // we can find the level sum on the fly -> no need to do an individual BFS for it
+
+        if(root==NULL)
+          return root;
+        
+        queue<TreeNode*>q;
+        q.push(root);
+        int lvl_sum=root->val;
+
+        while(!q.empty()){
+            int n=q.size();
+
+            int next_lvl_sum=0;
+
+            while(n--){
+                TreeNode* curr=q.front();
+                q.pop();
+
+                curr->val=lvl_sum-curr->val;
+
+                int siblingSum=(curr->left!=NULL ? curr->left->val : 0);
+                siblingSum+=(curr->right!=NULL ? curr->right->val : 0);
+
+                if(curr->left){
+                    next_lvl_sum+=curr->left->val;
+                    curr->left->val=siblingSum;
+                    q.push(curr->left);
+                }
+
+                if(curr->right){
+                    next_lvl_sum+=curr->right->val;
+                    curr->right->val=siblingSum;
+                    q.push(curr->right);
+                }
+            }
+            lvl_sum=next_lvl_sum;
+        }
+         return root;
+    }
+  
 };
