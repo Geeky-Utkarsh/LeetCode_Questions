@@ -290,6 +290,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/27481/LeetCode_Questions/tree/master/0202-happy-number) |
+| [1013-fibonacci-number](https://github.com/27481/LeetCode_Questions/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/27481/LeetCode_Questions/tree/master/1236-n-th-tribonacci-number) |
 | [1585-the-kth-factor-of-n](https://github.com/27481/LeetCode_Questions/tree/master/1585-the-kth-factor-of-n) |
 | [2481-strictly-palindromic-number](https://github.com/27481/LeetCode_Questions/tree/master/2481-strictly-palindromic-number) |
@@ -359,11 +360,17 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 |  |
 | ------- |
+| [1013-fibonacci-number](https://github.com/27481/LeetCode_Questions/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/27481/LeetCode_Questions/tree/master/1236-n-th-tribonacci-number) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/27481/LeetCode_Questions/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [2586-longest-square-streak-in-an-array](https://github.com/27481/LeetCode_Questions/tree/master/2586-longest-square-streak-in-an-array) |
 ## Memoization
 |  |
 | ------- |
+| [1013-fibonacci-number](https://github.com/27481/LeetCode_Questions/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/27481/LeetCode_Questions/tree/master/1236-n-th-tribonacci-number) |
+## Recursion
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/27481/LeetCode_Questions/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
