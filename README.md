@@ -143,6 +143,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0125-valid-palindrome](https://github.com/27481/LeetCode_Questions/tree/master/0125-valid-palindrome) |
 | [0807-custom-sort-string](https://github.com/27481/LeetCode_Questions/tree/master/0807-custom-sort-string) |
+| [0812-rotate-string](https://github.com/27481/LeetCode_Questions/tree/master/0812-rotate-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/27481/LeetCode_Questions/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/27481/LeetCode_Questions/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/27481/LeetCode_Questions/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -376,4 +377,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/27481/LeetCode_Questions/tree/master/1013-fibonacci-number) |
+## String Matching
+|  |
+| ------- |
+| [0812-rotate-string](https://github.com/27481/LeetCode_Questions/tree/master/0812-rotate-string) |
 <!---LeetCode Topics End-->
