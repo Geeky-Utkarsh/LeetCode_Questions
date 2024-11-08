@@ -189,6 +189,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0724-find-pivot-index](https://github.com/27481/LeetCode_Questions/tree/master/0724-find-pivot-index) |
 | [0948-sort-an-array](https://github.com/27481/LeetCode_Questions/tree/master/0948-sort-an-array) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/27481/LeetCode_Questions/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/27481/LeetCode_Questions/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/27481/LeetCode_Questions/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/27481/LeetCode_Questions/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1603-running-sum-of-1d-array](https://github.com/27481/LeetCode_Questions/tree/master/1603-running-sum-of-1d-array) |
@@ -295,6 +296,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0202-happy-number](https://github.com/27481/LeetCode_Questions/tree/master/0202-happy-number) |
 | [1013-fibonacci-number](https://github.com/27481/LeetCode_Questions/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/27481/LeetCode_Questions/tree/master/1236-n-th-tribonacci-number) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/27481/LeetCode_Questions/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1585-the-kth-factor-of-n](https://github.com/27481/LeetCode_Questions/tree/master/1585-the-kth-factor-of-n) |
 | [2481-strictly-palindromic-number](https://github.com/27481/LeetCode_Questions/tree/master/2481-strictly-palindromic-number) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/27481/LeetCode_Questions/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
