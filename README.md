@@ -196,6 +196,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/27481/LeetCode_Questions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/27481/LeetCode_Questions/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/27481/LeetCode_Questions/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1940-maximum-xor-for-each-query](https://github.com/27481/LeetCode_Questions/tree/master/1940-maximum-xor-for-each-query) |
 | [2102-find-the-middle-index-in-array](https://github.com/27481/LeetCode_Questions/tree/master/2102-find-the-middle-index-in-array) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/27481/LeetCode_Questions/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/27481/LeetCode_Questions/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -263,6 +264,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0476-number-complement](https://github.com/27481/LeetCode_Questions/tree/master/0476-number-complement) |
 | [1054-complement-of-base-10-integer](https://github.com/27481/LeetCode_Questions/tree/master/1054-complement-of-base-10-integer) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/27481/LeetCode_Questions/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1940-maximum-xor-for-each-query](https://github.com/27481/LeetCode_Questions/tree/master/1940-maximum-xor-for-each-query) |
 | [2308-divide-array-into-equal-pairs](https://github.com/27481/LeetCode_Questions/tree/master/2308-divide-array-into-equal-pairs) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/27481/LeetCode_Questions/tree/master/2323-minimum-bit-flips-to-convert-number) |
 ## Divide and Conquer
@@ -337,6 +339,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0724-find-pivot-index](https://github.com/27481/LeetCode_Questions/tree/master/0724-find-pivot-index) |
 | [1603-running-sum-of-1d-array](https://github.com/27481/LeetCode_Questions/tree/master/1603-running-sum-of-1d-array) |
+| [1940-maximum-xor-for-each-query](https://github.com/27481/LeetCode_Questions/tree/master/1940-maximum-xor-for-each-query) |
 | [2102-find-the-middle-index-in-array](https://github.com/27481/LeetCode_Questions/tree/master/2102-find-the-middle-index-in-array) |
 | [2342-minimum-average-difference](https://github.com/27481/LeetCode_Questions/tree/master/2342-minimum-average-difference) |
 | [2358-number-of-ways-to-split-array](https://github.com/27481/LeetCode_Questions/tree/master/2358-number-of-ways-to-split-array) |
