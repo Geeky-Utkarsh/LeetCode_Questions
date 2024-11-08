@@ -267,6 +267,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1940-maximum-xor-for-each-query](https://github.com/27481/LeetCode_Questions/tree/master/1940-maximum-xor-for-each-query) |
 | [2308-divide-array-into-equal-pairs](https://github.com/27481/LeetCode_Questions/tree/master/2308-divide-array-into-equal-pairs) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/27481/LeetCode_Questions/tree/master/2323-minimum-bit-flips-to-convert-number) |
+| [2659-number-of-even-and-odd-bits](https://github.com/27481/LeetCode_Questions/tree/master/2659-number-of-even-and-odd-bits) |
 ## Divide and Conquer
 |  |
 | ------- |
