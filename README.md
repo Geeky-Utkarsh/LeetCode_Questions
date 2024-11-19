@@ -303,6 +303,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/27481/LeetCode_Questions/tree/master/0009-palindrome-number) |
 | [0070-climbing-stairs](https://github.com/27481/LeetCode_Questions/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/27481/LeetCode_Questions/tree/master/0202-happy-number) |
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/27481/LeetCode_Questions/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
