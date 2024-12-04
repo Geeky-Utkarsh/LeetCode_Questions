@@ -143,6 +143,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0125-valid-palindrome](https://github.com/27481/LeetCode_Questions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/27481/LeetCode_Questions/tree/master/0151-reverse-words-in-a-string) |
+| [0392-is-subsequence](https://github.com/27481/LeetCode_Questions/tree/master/0392-is-subsequence) |
 | [0807-custom-sort-string](https://github.com/27481/LeetCode_Questions/tree/master/0807-custom-sort-string) |
 | [0812-rotate-string](https://github.com/27481/LeetCode_Questions/tree/master/0812-rotate-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/27481/LeetCode_Questions/tree/master/0920-uncommon-words-from-two-sentences) |
@@ -181,6 +182,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0151-reverse-words-in-a-string](https://github.com/27481/LeetCode_Questions/tree/master/0151-reverse-words-in-a-string) |
 | [0202-happy-number](https://github.com/27481/LeetCode_Questions/tree/master/0202-happy-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/27481/LeetCode_Questions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0392-is-subsequence](https://github.com/27481/LeetCode_Questions/tree/master/0392-is-subsequence) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/27481/LeetCode_Questions/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/27481/LeetCode_Questions/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/27481/LeetCode_Questions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
@@ -401,6 +403,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0070-climbing-stairs](https://github.com/27481/LeetCode_Questions/tree/master/0070-climbing-stairs) |
 | [0338-counting-bits](https://github.com/27481/LeetCode_Questions/tree/master/0338-counting-bits) |
+| [0392-is-subsequence](https://github.com/27481/LeetCode_Questions/tree/master/0392-is-subsequence) |
 | [1013-fibonacci-number](https://github.com/27481/LeetCode_Questions/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/27481/LeetCode_Questions/tree/master/1236-n-th-tribonacci-number) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/27481/LeetCode_Questions/tree/master/1402-count-square-submatrices-with-all-ones) |
