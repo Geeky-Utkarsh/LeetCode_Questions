@@ -126,6 +126,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/27481/LeetCode_Questions/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/27481/LeetCode_Questions/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/27481/LeetCode_Questions/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/27481/LeetCode_Questions/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/27481/LeetCode_Questions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2308-divide-array-into-equal-pairs](https://github.com/27481/LeetCode_Questions/tree/master/2308-divide-array-into-equal-pairs) |
 | [2331-intersection-of-multiple-arrays](https://github.com/27481/LeetCode_Questions/tree/master/2331-intersection-of-multiple-arrays) |
@@ -171,6 +172,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/27481/LeetCode_Questions/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/27481/LeetCode_Questions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/27481/LeetCode_Questions/tree/master/1741-sort-array-by-increasing-frequency) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/27481/LeetCode_Questions/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2331-intersection-of-multiple-arrays](https://github.com/27481/LeetCode_Questions/tree/master/2331-intersection-of-multiple-arrays) |
 | [2502-sort-the-people](https://github.com/27481/LeetCode_Questions/tree/master/2502-sort-the-people) |
 | [2586-longest-square-streak-in-an-array](https://github.com/27481/LeetCode_Questions/tree/master/2586-longest-square-streak-in-an-array) |
@@ -186,6 +188,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/27481/LeetCode_Questions/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/27481/LeetCode_Questions/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/27481/LeetCode_Questions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/27481/LeetCode_Questions/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1894-merge-strings-alternately](https://github.com/27481/LeetCode_Questions/tree/master/1894-merge-strings-alternately) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/27481/LeetCode_Questions/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/27481/LeetCode_Questions/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
@@ -208,6 +211,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/27481/LeetCode_Questions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/27481/LeetCode_Questions/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/27481/LeetCode_Questions/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/27481/LeetCode_Questions/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1833-find-the-highest-altitude](https://github.com/27481/LeetCode_Questions/tree/master/1833-find-the-highest-altitude) |
 | [1940-maximum-xor-for-each-query](https://github.com/27481/LeetCode_Questions/tree/master/1940-maximum-xor-for-each-query) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/27481/LeetCode_Questions/tree/master/2093-check-if-string-is-a-prefix-of-array) |
