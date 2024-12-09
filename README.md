@@ -135,6 +135,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2532-remove-letter-to-equalize-frequency](https://github.com/27481/LeetCode_Questions/tree/master/2532-remove-letter-to-equalize-frequency) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/27481/LeetCode_Questions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2586-longest-square-streak-in-an-array](https://github.com/27481/LeetCode_Questions/tree/master/2586-longest-square-streak-in-an-array) |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/27481/LeetCode_Questions/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/27481/LeetCode_Questions/tree/master/2677-cousins-in-binary-tree-ii) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/27481/LeetCode_Questions/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/27481/LeetCode_Questions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -179,6 +180,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2502-sort-the-people](https://github.com/27481/LeetCode_Questions/tree/master/2502-sort-the-people) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/27481/LeetCode_Questions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2586-longest-square-streak-in-an-array](https://github.com/27481/LeetCode_Questions/tree/master/2586-longest-square-streak-in-an-array) |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/27481/LeetCode_Questions/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -240,6 +242,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/27481/LeetCode_Questions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2586-longest-square-streak-in-an-array](https://github.com/27481/LeetCode_Questions/tree/master/2586-longest-square-streak-in-an-array) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/27481/LeetCode_Questions/tree/master/2616-maximal-score-after-applying-k-operations) |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/27481/LeetCode_Questions/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2714-left-and-right-sum-differences](https://github.com/27481/LeetCode_Questions/tree/master/2714-left-and-right-sum-differences) |
 | [2727-number-of-senior-citizens](https://github.com/27481/LeetCode_Questions/tree/master/2727-number-of-senior-citizens) |
 | [3415-check-if-grid-satisfies-conditions](https://github.com/27481/LeetCode_Questions/tree/master/3415-check-if-grid-satisfies-conditions) |
@@ -258,6 +261,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0350-intersection-of-two-arrays-ii](https://github.com/27481/LeetCode_Questions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/27481/LeetCode_Questions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [2586-longest-square-streak-in-an-array](https://github.com/27481/LeetCode_Questions/tree/master/2586-longest-square-streak-in-an-array) |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/27481/LeetCode_Questions/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 ## Counting
 |  |
 | ------- |
@@ -376,6 +380,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/27481/LeetCode_Questions/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/27481/LeetCode_Questions/tree/master/2616-maximal-score-after-applying-k-operations) |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/27481/LeetCode_Questions/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 ## Prefix Sum
 |  |
 | ------- |
