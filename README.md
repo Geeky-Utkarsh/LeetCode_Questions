@@ -167,6 +167,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2341-count-prefixes-of-a-given-string](https://github.com/27481/LeetCode_Questions/tree/master/2341-count-prefixes-of-a-given-string) |
 | [2502-sort-the-people](https://github.com/27481/LeetCode_Questions/tree/master/2502-sort-the-people) |
 | [2532-remove-letter-to-equalize-frequency](https://github.com/27481/LeetCode_Questions/tree/master/2532-remove-letter-to-equalize-frequency) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/27481/LeetCode_Questions/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2727-number-of-senior-citizens](https://github.com/27481/LeetCode_Questions/tree/master/2727-number-of-senior-citizens) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/27481/LeetCode_Questions/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/27481/LeetCode_Questions/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
@@ -256,6 +257,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2586-longest-square-streak-in-an-array](https://github.com/27481/LeetCode_Questions/tree/master/2586-longest-square-streak-in-an-array) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/27481/LeetCode_Questions/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/27481/LeetCode_Questions/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/27481/LeetCode_Questions/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2714-left-and-right-sum-differences](https://github.com/27481/LeetCode_Questions/tree/master/2714-left-and-right-sum-differences) |
 | [2727-number-of-senior-citizens](https://github.com/27481/LeetCode_Questions/tree/master/2727-number-of-senior-citizens) |
 | [3221-find-the-peaks](https://github.com/27481/LeetCode_Questions/tree/master/3221-find-the-peaks) |
@@ -422,6 +424,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2102-find-the-middle-index-in-array](https://github.com/27481/LeetCode_Questions/tree/master/2102-find-the-middle-index-in-array) |
 | [2342-minimum-average-difference](https://github.com/27481/LeetCode_Questions/tree/master/2342-minimum-average-difference) |
 | [2358-number-of-ways-to-split-array](https://github.com/27481/LeetCode_Questions/tree/master/2358-number-of-ways-to-split-array) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/27481/LeetCode_Questions/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2714-left-and-right-sum-differences](https://github.com/27481/LeetCode_Questions/tree/master/2714-left-and-right-sum-differences) |
 | [3422-find-the-n-th-value-after-k-seconds](https://github.com/27481/LeetCode_Questions/tree/master/3422-find-the-n-th-value-after-k-seconds) |
 | [3427-special-array-ii](https://github.com/27481/LeetCode_Questions/tree/master/3427-special-array-ii) |
