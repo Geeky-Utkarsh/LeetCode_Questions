@@ -4,8 +4,10 @@ public:
 
         int n=nums.size();
 
-        long long int prefixsum[n];
-        long long int suffixsum[n];
+        // long long int prefixsum[n];
+        // long long int suffixsum[n];
+        long long int* prefixsum = new long long int[n];
+        long long int* suffixsum = new long long int[n];
 
         // for prefix sum 
         prefixsum[0]=nums[0];
