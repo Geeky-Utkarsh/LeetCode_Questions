@@ -6,15 +6,15 @@ public:
         if(n<3)
            return n;
 
-        map<char,int>mp;
+        vector<int>f(26,0);
         int op_cnt=0;
 
         for(char ch : s){
-            mp[ch]++;
-            
-            if(mp[ch]==3){
+            f[ch-'a']++;
+
+            if(f[ch-'a']==3){
                 op_cnt+=2;
-                mp[ch]-=2;
+                f[ch-'a']-=2;
             }
         }
         int sz=n-op_cnt;
