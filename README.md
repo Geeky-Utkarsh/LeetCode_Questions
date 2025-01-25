@@ -203,6 +203,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/27481/LeetCode_Questions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2586-longest-square-streak-in-an-array](https://github.com/27481/LeetCode_Questions/tree/master/2586-longest-square-streak-in-an-array) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/27481/LeetCode_Questions/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/27481/LeetCode_Questions/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Two Pointers
 |  |
 | ------- |
@@ -283,6 +284,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2727-number-of-senior-citizens](https://github.com/27481/LeetCode_Questions/tree/master/2727-number-of-senior-citizens) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/27481/LeetCode_Questions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/27481/LeetCode_Questions/tree/master/2792-neighboring-bitwise-xor) |
+| [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/27481/LeetCode_Questions/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3221-find-the-peaks](https://github.com/27481/LeetCode_Questions/tree/master/3221-find-the-peaks) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/27481/LeetCode_Questions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3415-check-if-grid-satisfies-conditions](https://github.com/27481/LeetCode_Questions/tree/master/3415-check-if-grid-satisfies-conditions) |
@@ -551,4 +553,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/27481/LeetCode_Questions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+## Union Find
+|  |
+| ------- |
+| [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/27481/LeetCode_Questions/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 <!---LeetCode Topics End-->
