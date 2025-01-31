@@ -501,6 +501,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0407-trapping-rain-water-ii](https://github.com/27481/LeetCode_Questions/tree/master/0407-trapping-rain-water-ii) |
 | [0684-redundant-connection](https://github.com/27481/LeetCode_Questions/tree/master/0684-redundant-connection) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/27481/LeetCode_Questions/tree/master/2493-reverse-odd-levels-of-binary-tree) |
+| [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/27481/LeetCode_Questions/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/27481/LeetCode_Questions/tree/master/2677-cousins-in-binary-tree-ii) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/27481/LeetCode_Questions/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Binary Tree
@@ -566,10 +567,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0684-redundant-connection](https://github.com/27481/LeetCode_Questions/tree/master/0684-redundant-connection) |
+| [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/27481/LeetCode_Questions/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/27481/LeetCode_Questions/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/27481/LeetCode_Questions/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Graph
 |  |
 | ------- |
 | [0684-redundant-connection](https://github.com/27481/LeetCode_Questions/tree/master/0684-redundant-connection) |
+| [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/27481/LeetCode_Questions/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 <!---LeetCode Topics End-->
