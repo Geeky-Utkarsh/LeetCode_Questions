@@ -255,6 +255,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1798-max-number-of-k-sum-pairs](https://github.com/27481/LeetCode_Questions/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1833-find-the-highest-altitude](https://github.com/27481/LeetCode_Questions/tree/master/1833-find-the-highest-altitude) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/27481/LeetCode_Questions/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [1927-maximum-ascending-subarray-sum](https://github.com/Geeky-Utkarsh/LeetCode_Questions/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1940-maximum-xor-for-each-query](https://github.com/27481/LeetCode_Questions/tree/master/1940-maximum-xor-for-each-query) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/27481/LeetCode_Questions/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/27481/LeetCode_Questions/tree/master/2094-remove-stones-to-minimize-the-total) |
