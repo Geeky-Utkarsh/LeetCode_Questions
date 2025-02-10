@@ -584,4 +584,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0684-redundant-connection](https://github.com/27481/LeetCode_Questions/tree/master/0684-redundant-connection) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/27481/LeetCode_Questions/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
+## Database
+|  |
+| ------- |
+| [1908-recyclable-and-low-fat-products](https://github.com/Geeky-Utkarsh/LeetCode_Questions/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
