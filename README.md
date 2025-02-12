@@ -137,6 +137,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2308-divide-array-into-equal-pairs](https://github.com/27481/LeetCode_Questions/tree/master/2308-divide-array-into-equal-pairs) |
 | [2331-intersection-of-multiple-arrays](https://github.com/27481/LeetCode_Questions/tree/master/2331-intersection-of-multiple-arrays) |
 | [2388-replace-elements-in-an-array](https://github.com/27481/LeetCode_Questions/tree/master/2388-replace-elements-in-an-array) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Geeky-Utkarsh/LeetCode_Questions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2502-sort-the-people](https://github.com/27481/LeetCode_Questions/tree/master/2502-sort-the-people) |
 | [2532-remove-letter-to-equalize-frequency](https://github.com/27481/LeetCode_Questions/tree/master/2532-remove-letter-to-equalize-frequency) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/27481/LeetCode_Questions/tree/master/2566-number-of-unequal-triplets-in-array) |
@@ -204,6 +205,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1741-sort-array-by-increasing-frequency](https://github.com/27481/LeetCode_Questions/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/27481/LeetCode_Questions/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2331-intersection-of-multiple-arrays](https://github.com/27481/LeetCode_Questions/tree/master/2331-intersection-of-multiple-arrays) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Geeky-Utkarsh/LeetCode_Questions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2502-sort-the-people](https://github.com/27481/LeetCode_Questions/tree/master/2502-sort-the-people) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/27481/LeetCode_Questions/tree/master/2566-number-of-unequal-triplets-in-array) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/27481/LeetCode_Questions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -278,6 +280,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2388-replace-elements-in-an-array](https://github.com/27481/LeetCode_Questions/tree/master/2388-replace-elements-in-an-array) |
 | [2454-largest-local-values-in-a-matrix](https://github.com/27481/LeetCode_Questions/tree/master/2454-largest-local-values-in-a-matrix) |
 | [2465-shifting-letters-ii](https://github.com/27481/LeetCode_Questions/tree/master/2465-shifting-letters-ii) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Geeky-Utkarsh/LeetCode_Questions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2502-sort-the-people](https://github.com/27481/LeetCode_Questions/tree/master/2502-sort-the-people) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/27481/LeetCode_Questions/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/27481/LeetCode_Questions/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
@@ -394,6 +397,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0407-trapping-rain-water-ii](https://github.com/27481/LeetCode_Questions/tree/master/0407-trapping-rain-water-ii) |
 | [0948-sort-an-array](https://github.com/27481/LeetCode_Questions/tree/master/0948-sort-an-array) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/27481/LeetCode_Questions/tree/master/2094-remove-stones-to-minimize-the-total) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Geeky-Utkarsh/LeetCode_Questions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/27481/LeetCode_Questions/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/27481/LeetCode_Questions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Merge Sort
