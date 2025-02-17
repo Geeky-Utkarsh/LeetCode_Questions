@@ -126,6 +126,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0807-custom-sort-string](https://github.com/27481/LeetCode_Questions/tree/master/0807-custom-sort-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/27481/LeetCode_Questions/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0952-word-subsets](https://github.com/27481/LeetCode_Questions/tree/master/0952-word-subsets) |
+| [1160-letter-tile-possibilities](https://github.com/Geeky-Utkarsh/LeetCode_Questions/tree/master/1160-letter-tile-possibilities) |
 | [1267-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/Geeky-Utkarsh/LeetCode_Questions/tree/master/1267-remove-zero-sum-consecutive-nodes-from-linked-list) |
 | [1502-construct-k-palindrome-strings](https://github.com/27481/LeetCode_Questions/tree/master/1502-construct-k-palindrome-strings) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/27481/LeetCode_Questions/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -164,6 +165,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0812-rotate-string](https://github.com/27481/LeetCode_Questions/tree/master/0812-rotate-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/27481/LeetCode_Questions/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0952-word-subsets](https://github.com/27481/LeetCode_Questions/tree/master/0952-word-subsets) |
+| [1160-letter-tile-possibilities](https://github.com/Geeky-Utkarsh/LeetCode_Questions/tree/master/1160-letter-tile-possibilities) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/27481/LeetCode_Questions/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1502-construct-k-palindrome-strings](https://github.com/27481/LeetCode_Questions/tree/master/1502-construct-k-palindrome-strings) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/27481/LeetCode_Questions/tree/master/1537-maximum-score-after-splitting-a-string) |
@@ -326,6 +328,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0920-uncommon-words-from-two-sentences](https://github.com/27481/LeetCode_Questions/tree/master/0920-uncommon-words-from-two-sentences) |
+| [1160-letter-tile-possibilities](https://github.com/Geeky-Utkarsh/LeetCode_Questions/tree/master/1160-letter-tile-possibilities) |
 | [1502-construct-k-palindrome-strings](https://github.com/27481/LeetCode_Questions/tree/master/1502-construct-k-palindrome-strings) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/27481/LeetCode_Questions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/27481/LeetCode_Questions/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -606,4 +609,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0584-find-customer-referee](https://github.com/Geeky-Utkarsh/LeetCode_Questions/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/Geeky-Utkarsh/LeetCode_Questions/tree/master/0595-big-countries) |
 | [1908-recyclable-and-low-fat-products](https://github.com/Geeky-Utkarsh/LeetCode_Questions/tree/master/1908-recyclable-and-low-fat-products) |
+## Backtracking
+|  |
+| ------- |
+| [1160-letter-tile-possibilities](https://github.com/Geeky-Utkarsh/LeetCode_Questions/tree/master/1160-letter-tile-possibilities) |
 <!---LeetCode Topics End-->
