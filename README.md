@@ -441,6 +441,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1585-the-kth-factor-of-n](https://github.com/27481/LeetCode_Questions/tree/master/1585-the-kth-factor-of-n) |
 | [2481-strictly-palindromic-number](https://github.com/27481/LeetCode_Questions/tree/master/2481-strictly-palindromic-number) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/27481/LeetCode_Questions/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
+| [2610-closest-prime-numbers-in-range](https://github.com/Geeky-Utkarsh/LeetCode_Questions/tree/master/2610-closest-prime-numbers-in-range) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/27481/LeetCode_Questions/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3055-maximum-odd-binary-number](https://github.com/Geeky-Utkarsh/LeetCode_Questions/tree/master/3055-maximum-odd-binary-number) |
 | [3227-find-missing-and-repeated-values](https://github.com/Geeky-Utkarsh/LeetCode_Questions/tree/master/3227-find-missing-and-repeated-values) |
@@ -454,6 +455,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1585-the-kth-factor-of-n](https://github.com/27481/LeetCode_Questions/tree/master/1585-the-kth-factor-of-n) |
+| [2610-closest-prime-numbers-in-range](https://github.com/Geeky-Utkarsh/LeetCode_Questions/tree/master/2610-closest-prime-numbers-in-range) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/27481/LeetCode_Questions/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Sliding Window
 |  |
