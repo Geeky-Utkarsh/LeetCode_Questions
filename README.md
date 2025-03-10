@@ -185,6 +185,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2232-adding-spaces-to-a-string](https://github.com/27481/LeetCode_Questions/tree/master/2232-adding-spaces-to-a-string) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/27481/LeetCode_Questions/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2341-count-prefixes-of-a-given-string](https://github.com/27481/LeetCode_Questions/tree/master/2341-count-prefixes-of-a-given-string) |
+| [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Geeky-Utkarsh/LeetCode_Questions/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2465-shifting-letters-ii](https://github.com/27481/LeetCode_Questions/tree/master/2465-shifting-letters-ii) |
 | [2502-sort-the-people](https://github.com/27481/LeetCode_Questions/tree/master/2502-sort-the-people) |
 | [2532-remove-letter-to-equalize-frequency](https://github.com/27481/LeetCode_Questions/tree/master/2532-remove-letter-to-equalize-frequency) |
@@ -463,6 +464,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0003-longest-substring-without-repeating-characters](https://github.com/27481/LeetCode_Questions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/27481/LeetCode_Questions/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/27481/LeetCode_Questions/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
+| [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Geeky-Utkarsh/LeetCode_Questions/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/27481/LeetCode_Questions/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Brainteaser
 |  |
