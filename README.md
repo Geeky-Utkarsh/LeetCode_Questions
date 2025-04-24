@@ -149,6 +149,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2677-cousins-in-binary-tree-ii](https://github.com/27481/LeetCode_Questions/tree/master/2677-cousins-in-binary-tree-ii) |
 | [2685-first-completely-painted-row-or-column](https://github.com/27481/LeetCode_Questions/tree/master/2685-first-completely-painted-row-or-column) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/27481/LeetCode_Questions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [2856-count-complete-subarrays-in-an-array](https://github.com/Geeky-Utkarsh/LeetCode_Questions/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3227-find-missing-and-repeated-values](https://github.com/Geeky-Utkarsh/LeetCode_Questions/tree/master/3227-find-missing-and-repeated-values) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/27481/LeetCode_Questions/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/27481/LeetCode_Questions/tree/master/3455-minimum-length-of-string-after-operations) |
@@ -304,6 +305,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/27481/LeetCode_Questions/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/27481/LeetCode_Questions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/27481/LeetCode_Questions/tree/master/2792-neighboring-bitwise-xor) |
+| [2856-count-complete-subarrays-in-an-array](https://github.com/Geeky-Utkarsh/LeetCode_Questions/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/27481/LeetCode_Questions/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3221-find-the-peaks](https://github.com/27481/LeetCode_Questions/tree/master/3221-find-the-peaks) |
 | [3227-find-missing-and-repeated-values](https://github.com/Geeky-Utkarsh/LeetCode_Questions/tree/master/3227-find-missing-and-repeated-values) |
@@ -470,6 +472,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/27481/LeetCode_Questions/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/27481/LeetCode_Questions/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Geeky-Utkarsh/LeetCode_Questions/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [2856-count-complete-subarrays-in-an-array](https://github.com/Geeky-Utkarsh/LeetCode_Questions/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/27481/LeetCode_Questions/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Brainteaser
 |  |
