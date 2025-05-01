@@ -211,6 +211,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/27481/LeetCode_Questions/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/27481/LeetCode_Questions/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/27481/LeetCode_Questions/tree/master/1798-max-number-of-k-sum-pairs) |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Geeky-Utkarsh/LeetCode_Questions/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2331-intersection-of-multiple-arrays](https://github.com/27481/LeetCode_Questions/tree/master/2331-intersection-of-multiple-arrays) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Geeky-Utkarsh/LeetCode_Questions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2502-sort-the-people](https://github.com/27481/LeetCode_Questions/tree/master/2502-sort-the-people) |
@@ -278,6 +279,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2132-convert-1d-array-into-2d-array](https://github.com/27481/LeetCode_Questions/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2145-grid-game](https://github.com/27481/LeetCode_Questions/tree/master/2145-grid-game) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/27481/LeetCode_Questions/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Geeky-Utkarsh/LeetCode_Questions/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2232-adding-spaces-to-a-string](https://github.com/27481/LeetCode_Questions/tree/master/2232-adding-spaces-to-a-string) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/27481/LeetCode_Questions/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/27481/LeetCode_Questions/tree/master/2292-counting-words-with-a-given-prefix) |
@@ -332,6 +334,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0350-intersection-of-two-arrays-ii](https://github.com/27481/LeetCode_Questions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/27481/LeetCode_Questions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/27481/LeetCode_Questions/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Geeky-Utkarsh/LeetCode_Questions/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2586-longest-square-streak-in-an-array](https://github.com/27481/LeetCode_Questions/tree/master/2586-longest-square-streak-in-an-array) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/27481/LeetCode_Questions/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [3427-special-array-ii](https://github.com/27481/LeetCode_Questions/tree/master/3427-special-array-ii) |
@@ -498,6 +501,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1502-construct-k-palindrome-strings](https://github.com/27481/LeetCode_Questions/tree/master/1502-construct-k-palindrome-strings) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/27481/LeetCode_Questions/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/27481/LeetCode_Questions/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Geeky-Utkarsh/LeetCode_Questions/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/27481/LeetCode_Questions/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/27481/LeetCode_Questions/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/27481/LeetCode_Questions/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
@@ -635,4 +639,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [1160-letter-tile-possibilities](https://github.com/Geeky-Utkarsh/LeetCode_Questions/tree/master/1160-letter-tile-possibilities) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Geeky-Utkarsh/LeetCode_Questions/tree/master/1993-sum-of-all-subset-xor-totals) |
+## Queue
+|  |
+| ------- |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Geeky-Utkarsh/LeetCode_Questions/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
+## Monotonic Queue
+|  |
+| ------- |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Geeky-Utkarsh/LeetCode_Questions/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 <!---LeetCode Topics End-->
