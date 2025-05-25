@@ -388,6 +388,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/Geeky-Utkarsh/LeetCode_Questions/tree/master/0231-power-of-two) |
 | [0338-counting-bits](https://github.com/27481/LeetCode_Questions/tree/master/0338-counting-bits) |
 | [0371-sum-of-two-integers](https://github.com/27481/LeetCode_Questions/tree/master/0371-sum-of-two-integers) |
 | [0476-number-complement](https://github.com/27481/LeetCode_Questions/tree/master/0476-number-complement) |
@@ -444,6 +445,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0009-palindrome-number](https://github.com/27481/LeetCode_Questions/tree/master/0009-palindrome-number) |
 | [0070-climbing-stairs](https://github.com/27481/LeetCode_Questions/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/27481/LeetCode_Questions/tree/master/0202-happy-number) |
+| [0231-power-of-two](https://github.com/Geeky-Utkarsh/LeetCode_Questions/tree/master/0231-power-of-two) |
 | [0371-sum-of-two-integers](https://github.com/27481/LeetCode_Questions/tree/master/0371-sum-of-two-integers) |
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/27481/LeetCode_Questions/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
 | [1013-fibonacci-number](https://github.com/27481/LeetCode_Questions/tree/master/1013-fibonacci-number) |
@@ -581,6 +583,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/27481/LeetCode_Questions/tree/master/0002-add-two-numbers) |
+| [0231-power-of-two](https://github.com/Geeky-Utkarsh/LeetCode_Questions/tree/master/0231-power-of-two) |
 | [1013-fibonacci-number](https://github.com/27481/LeetCode_Questions/tree/master/1013-fibonacci-number) |
 ## String Matching
 |  |
