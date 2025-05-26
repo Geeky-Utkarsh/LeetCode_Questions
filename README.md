@@ -237,6 +237,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1894-merge-strings-alternately](https://github.com/27481/LeetCode_Questions/tree/master/1894-merge-strings-alternately) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/27481/LeetCode_Questions/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/27481/LeetCode_Questions/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Geeky-Utkarsh/LeetCode_Questions/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2232-adding-spaces-to-a-string](https://github.com/27481/LeetCode_Questions/tree/master/2232-adding-spaces-to-a-string) |
 | [2481-strictly-palindromic-number](https://github.com/27481/LeetCode_Questions/tree/master/2481-strictly-palindromic-number) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/27481/LeetCode_Questions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
