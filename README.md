@@ -220,6 +220,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2586-longest-square-streak-in-an-array](https://github.com/27481/LeetCode_Questions/tree/master/2586-longest-square-streak-in-an-array) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/27481/LeetCode_Questions/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/27481/LeetCode_Questions/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
+| [3241-divide-array-into-arrays-with-max-difference](https://github.com/Geeky-Utkarsh/LeetCode_Questions/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 ## Two Pointers
 |  |
 | ------- |
@@ -312,6 +313,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/27481/LeetCode_Questions/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3221-find-the-peaks](https://github.com/27481/LeetCode_Questions/tree/master/3221-find-the-peaks) |
 | [3227-find-missing-and-repeated-values](https://github.com/Geeky-Utkarsh/LeetCode_Questions/tree/master/3227-find-missing-and-repeated-values) |
+| [3241-divide-array-into-arrays-with-max-difference](https://github.com/Geeky-Utkarsh/LeetCode_Questions/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/27481/LeetCode_Questions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Geeky-Utkarsh/LeetCode_Questions/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/27481/LeetCode_Questions/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
@@ -511,6 +513,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2616-maximal-score-after-applying-k-operations](https://github.com/27481/LeetCode_Questions/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/27481/LeetCode_Questions/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [3055-maximum-odd-binary-number](https://github.com/Geeky-Utkarsh/LeetCode_Questions/tree/master/3055-maximum-odd-binary-number) |
+| [3241-divide-array-into-arrays-with-max-difference](https://github.com/Geeky-Utkarsh/LeetCode_Questions/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 ## Prefix Sum
 |  |
 | ------- |
