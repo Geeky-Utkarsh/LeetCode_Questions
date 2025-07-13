@@ -224,6 +224,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/27481/LeetCode_Questions/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/27481/LeetCode_Questions/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Geeky-Utkarsh/LeetCode_Questions/tree/master/3241-divide-array-into-arrays-with-max-difference) |
+| [3778-transform-array-by-parity](https://github.com/Geeky-Utkarsh/LeetCode_Questions/tree/master/3778-transform-array-by-parity) |
 ## Two Pointers
 |  |
 | ------- |
@@ -338,6 +339,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Geeky-Utkarsh/LeetCode_Questions/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/Geeky-Utkarsh/LeetCode_Questions/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Geeky-Utkarsh/LeetCode_Questions/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
+| [3778-transform-array-by-parity](https://github.com/Geeky-Utkarsh/LeetCode_Questions/tree/master/3778-transform-array-by-parity) |
 ## Binary Search
 |  |
 | ------- |
@@ -363,6 +365,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/27481/LeetCode_Questions/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/27481/LeetCode_Questions/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3519-find-the-number-of-winning-players](https://github.com/27481/LeetCode_Questions/tree/master/3519-find-the-number-of-winning-players) |
+| [3778-transform-array-by-parity](https://github.com/Geeky-Utkarsh/LeetCode_Questions/tree/master/3778-transform-array-by-parity) |
 ## Linked List
 |  |
 | ------- |
