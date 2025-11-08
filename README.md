@@ -411,6 +411,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0693-binary-number-with-alternating-bits](https://github.com/27481/LeetCode_Questions/tree/master/0693-binary-number-with-alternating-bits) |
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/27481/LeetCode_Questions/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
 | [1054-complement-of-base-10-integer](https://github.com/27481/LeetCode_Questions/tree/master/1054-complement-of-base-10-integer) |
+| [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Geeky-Utkarsh/LeetCode_Questions/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/27481/LeetCode_Questions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1940-maximum-xor-for-each-query](https://github.com/27481/LeetCode_Questions/tree/master/1940-maximum-xor-for-each-query) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Geeky-Utkarsh/LeetCode_Questions/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -596,6 +597,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1236-n-th-tribonacci-number](https://github.com/27481/LeetCode_Questions/tree/master/1236-n-th-tribonacci-number) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/27481/LeetCode_Questions/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1690-maximum-length-of-subarray-with-positive-product](https://github.com/Geeky-Utkarsh/LeetCode_Questions/tree/master/1690-maximum-length-of-subarray-with-positive-product) |
+| [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Geeky-Utkarsh/LeetCode_Questions/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [2586-longest-square-streak-in-an-array](https://github.com/27481/LeetCode_Questions/tree/master/2586-longest-square-streak-in-an-array) |
 ## Memoization
 |  |
@@ -603,6 +605,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0070-climbing-stairs](https://github.com/27481/LeetCode_Questions/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/27481/LeetCode_Questions/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/27481/LeetCode_Questions/tree/master/1236-n-th-tribonacci-number) |
+| [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Geeky-Utkarsh/LeetCode_Questions/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 ## Recursion
 |  |
 | ------- |
