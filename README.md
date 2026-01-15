@@ -262,6 +262,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0350-intersection-of-two-arrays-ii](https://github.com/27481/LeetCode_Questions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0407-trapping-rain-water-ii](https://github.com/27481/LeetCode_Questions/tree/master/0407-trapping-rain-water-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/27481/LeetCode_Questions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0498-diagonal-traverse](https://github.com/Geeky-Utkarsh/LeetCode_Questions/tree/master/0498-diagonal-traverse) |
 | [0724-find-pivot-index](https://github.com/27481/LeetCode_Questions/tree/master/0724-find-pivot-index) |
 | [0854-making-a-large-island](https://github.com/27481/LeetCode_Questions/tree/master/0854-making-a-large-island) |
 | [0948-sort-an-array](https://github.com/27481/LeetCode_Questions/tree/master/0948-sort-an-array) |
@@ -396,6 +397,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0407-trapping-rain-water-ii](https://github.com/27481/LeetCode_Questions/tree/master/0407-trapping-rain-water-ii) |
+| [0498-diagonal-traverse](https://github.com/Geeky-Utkarsh/LeetCode_Questions/tree/master/0498-diagonal-traverse) |
 | [0854-making-a-large-island](https://github.com/27481/LeetCode_Questions/tree/master/0854-making-a-large-island) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/27481/LeetCode_Questions/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/27481/LeetCode_Questions/tree/master/1496-lucky-numbers-in-a-matrix) |
@@ -514,6 +516,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 |  |
 | ------- |
+| [0498-diagonal-traverse](https://github.com/Geeky-Utkarsh/LeetCode_Questions/tree/master/0498-diagonal-traverse) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Geeky-Utkarsh/LeetCode_Questions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/27481/LeetCode_Questions/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2232-adding-spaces-to-a-string](https://github.com/27481/LeetCode_Questions/tree/master/2232-adding-spaces-to-a-string) |
