@@ -156,6 +156,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/27481/LeetCode_Questions/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/27481/LeetCode_Questions/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/27481/LeetCode_Questions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Geeky-Utkarsh/LeetCode_Questions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3519-find-the-number-of-winning-players](https://github.com/27481/LeetCode_Questions/tree/master/3519-find-the-number-of-winning-players) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/27481/LeetCode_Questions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Geeky-Utkarsh/LeetCode_Questions/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
@@ -337,6 +338,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3422-find-the-n-th-value-after-k-seconds](https://github.com/27481/LeetCode_Questions/tree/master/3422-find-the-n-th-value-after-k-seconds) |
 | [3427-special-array-ii](https://github.com/27481/LeetCode_Questions/tree/master/3427-special-array-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/27481/LeetCode_Questions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Geeky-Utkarsh/LeetCode_Questions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/27481/LeetCode_Questions/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3519-find-the-number-of-winning-players](https://github.com/27481/LeetCode_Questions/tree/master/3519-find-the-number-of-winning-players) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/27481/LeetCode_Questions/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
@@ -383,6 +385,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/27481/LeetCode_Questions/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/27481/LeetCode_Questions/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/27481/LeetCode_Questions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Geeky-Utkarsh/LeetCode_Questions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Stack
 |  |
 | ------- |
@@ -446,6 +449,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Geeky-Utkarsh/LeetCode_Questions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/27481/LeetCode_Questions/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Geeky-Utkarsh/LeetCode_Questions/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Geeky-Utkarsh/LeetCode_Questions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/27481/LeetCode_Questions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Merge Sort
 |  |
@@ -525,6 +529,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Geeky-Utkarsh/LeetCode_Questions/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3422-find-the-n-th-value-after-k-seconds](https://github.com/27481/LeetCode_Questions/tree/master/3422-find-the-n-th-value-after-k-seconds) |
 | [3447-clear-digits](https://github.com/Geeky-Utkarsh/LeetCode_Questions/tree/master/3447-clear-digits) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Geeky-Utkarsh/LeetCode_Questions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/27481/LeetCode_Questions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Greedy
 |  |
@@ -687,4 +692,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Geeky-Utkarsh/LeetCode_Questions/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Geeky-Utkarsh/LeetCode_Questions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+## Ordered Set
+|  |
+| ------- |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Geeky-Utkarsh/LeetCode_Questions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 <!---LeetCode Topics End-->
