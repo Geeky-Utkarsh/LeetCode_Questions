@@ -232,6 +232,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/27481/LeetCode_Questions/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/27481/LeetCode_Questions/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Geeky-Utkarsh/LeetCode_Questions/tree/master/3241-divide-array-into-arrays-with-max-difference) |
+| [3536-maximum-product-of-two-digits](https://github.com/Geeky-Utkarsh/LeetCode_Questions/tree/master/3536-maximum-product-of-two-digits) |
 | [3778-transform-array-by-parity](https://github.com/Geeky-Utkarsh/LeetCode_Questions/tree/master/3778-transform-array-by-parity) |
 ## Two Pointers
 |  |
@@ -498,6 +499,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3371-harshad-number](https://github.com/27481/LeetCode_Questions/tree/master/3371-harshad-number) |
 | [3422-find-the-n-th-value-after-k-seconds](https://github.com/27481/LeetCode_Questions/tree/master/3422-find-the-n-th-value-after-k-seconds) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/27481/LeetCode_Questions/tree/master/3515-find-if-digit-game-can-be-won) |
+| [3536-maximum-product-of-two-digits](https://github.com/Geeky-Utkarsh/LeetCode_Questions/tree/master/3536-maximum-product-of-two-digits) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/27481/LeetCode_Questions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/27481/LeetCode_Questions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/27481/LeetCode_Questions/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
