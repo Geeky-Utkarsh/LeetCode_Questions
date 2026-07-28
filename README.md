@@ -208,6 +208,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3396-valid-word](https://github.com/Geeky-Utkarsh/LeetCode_Questions/tree/master/3396-valid-word) |
 | [3447-clear-digits](https://github.com/Geeky-Utkarsh/LeetCode_Questions/tree/master/3447-clear-digits) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/27481/LeetCode_Questions/tree/master/3455-minimum-length-of-string-after-operations) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Geeky-Utkarsh/LeetCode_Questions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Sorting
 |  |
 | ------- |
@@ -232,6 +233,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/27481/LeetCode_Questions/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/27481/LeetCode_Questions/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Geeky-Utkarsh/LeetCode_Questions/tree/master/3241-divide-array-into-arrays-with-max-difference) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Geeky-Utkarsh/LeetCode_Questions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Geeky-Utkarsh/LeetCode_Questions/tree/master/3536-maximum-product-of-two-digits) |
 | [3778-transform-array-by-parity](https://github.com/Geeky-Utkarsh/LeetCode_Questions/tree/master/3778-transform-array-by-parity) |
 ## Two Pointers
@@ -473,6 +475,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/27481/LeetCode_Questions/tree/master/0948-sort-an-array) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Geeky-Utkarsh/LeetCode_Questions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Math
 |  |
 | ------- |
