@@ -1,8 +1,8 @@
 class Solution {
 public:
     string smallestPalindrome(string s) {
-        if(s.size()==1 || s.size()==2)
-          return s;
+        // if(s.size()==1 || s.size()==2)
+        //   return s;
 
         int n=s.length();
         int mid=n/2;
