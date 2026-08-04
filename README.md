@@ -162,6 +162,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3519-find-the-number-of-winning-players](https://github.com/27481/LeetCode_Questions/tree/master/3519-find-the-number-of-winning-players) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/27481/LeetCode_Questions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Geeky-Utkarsh/LeetCode_Questions/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
+| [3731-find-missing-elements](https://github.com/Geeky-Utkarsh/LeetCode_Questions/tree/master/3731-find-missing-elements) |
 ## String
 |  |
 | ------- |
@@ -237,6 +238,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Geeky-Utkarsh/LeetCode_Questions/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Geeky-Utkarsh/LeetCode_Questions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Geeky-Utkarsh/LeetCode_Questions/tree/master/3536-maximum-product-of-two-digits) |
+| [3731-find-missing-elements](https://github.com/Geeky-Utkarsh/LeetCode_Questions/tree/master/3731-find-missing-elements) |
 | [3778-transform-array-by-parity](https://github.com/Geeky-Utkarsh/LeetCode_Questions/tree/master/3778-transform-array-by-parity) |
 ## Two Pointers
 |  |
@@ -358,6 +360,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/27481/LeetCode_Questions/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Geeky-Utkarsh/LeetCode_Questions/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/Geeky-Utkarsh/LeetCode_Questions/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
+| [3731-find-missing-elements](https://github.com/Geeky-Utkarsh/LeetCode_Questions/tree/master/3731-find-missing-elements) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Geeky-Utkarsh/LeetCode_Questions/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3778-transform-array-by-parity](https://github.com/Geeky-Utkarsh/LeetCode_Questions/tree/master/3778-transform-array-by-parity) |
 ## Binary Search
