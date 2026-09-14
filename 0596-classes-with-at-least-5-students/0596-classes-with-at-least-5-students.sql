@@ -18,4 +18,7 @@
 
 
 -- Solution --> 3 [SubQuery Based Approach]
-SELECT distinct class FROM Courses WHERE class IN ( SELECT class FROM Courses GROUP BY class HAVING COUNT(class)>=5 ORDER BY COUNT(class) );
+SELECT DISTINCT class FROM Courses WHERE class IN ( SELECT class FROM Courses GROUP BY class HAVING COUNT(class)>=5 ORDER BY COUNT(class) );
+
+
+-- SELECT /distinct/ class FROM Courses WHERE class IN ( SELECT class FROM Courses GROUP BY class HAVING COUNT(class)>=5 ORDER BY COUNT(class) );
