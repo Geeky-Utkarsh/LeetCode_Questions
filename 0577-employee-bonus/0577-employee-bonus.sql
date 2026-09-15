@@ -1,4 +1,4 @@
-/* Write your T-SQL query statement below */
+# Write your MySQL query statement below
 
 SELECT e.name ,b.bonus FROM employee AS e 
 LEFT JOIN bonus AS b ON e.empId=b.empId 
