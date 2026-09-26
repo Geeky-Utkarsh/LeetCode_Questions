@@ -710,6 +710,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1068-product-sales-analysis-i](https://github.com/Geeky-Utkarsh/LeetCode_Questions/tree/master/1068-product-sales-analysis-i) |
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/Geeky-Utkarsh/LeetCode_Questions/tree/master/1141-user-activity-for-the-past-30-days-i) |
 | [1211-queries-quality-and-percentage](https://github.com/Geeky-Utkarsh/LeetCode_Questions/tree/master/1211-queries-quality-and-percentage) |
+| [1280-students-and-examinations](https://github.com/Geeky-Utkarsh/LeetCode_Questions/tree/master/1280-students-and-examinations) |
 | [1683-invalid-tweets](https://github.com/Geeky-Utkarsh/LeetCode_Questions/tree/master/1683-invalid-tweets) |
 | [1693-daily-leads-and-partners](https://github.com/Geeky-Utkarsh/LeetCode_Questions/tree/master/1693-daily-leads-and-partners) |
 | [1741-find-total-time-spent-by-each-employee](https://github.com/Geeky-Utkarsh/LeetCode_Questions/tree/master/1741-find-total-time-spent-by-each-employee) |
