@@ -706,6 +706,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0595-big-countries](https://github.com/Geeky-Utkarsh/LeetCode_Questions/tree/master/0595-big-countries) |
 | [0596-classes-with-at-least-5-students](https://github.com/Geeky-Utkarsh/LeetCode_Questions/tree/master/0596-classes-with-at-least-5-students) |
 | [0619-biggest-single-number](https://github.com/Geeky-Utkarsh/LeetCode_Questions/tree/master/0619-biggest-single-number) |
+| [1211-queries-quality-and-percentage](https://github.com/Geeky-Utkarsh/LeetCode_Questions/tree/master/1211-queries-quality-and-percentage) |
 | [1683-invalid-tweets](https://github.com/Geeky-Utkarsh/LeetCode_Questions/tree/master/1683-invalid-tweets) |
 | [1693-daily-leads-and-partners](https://github.com/Geeky-Utkarsh/LeetCode_Questions/tree/master/1693-daily-leads-and-partners) |
 | [1741-find-total-time-spent-by-each-employee](https://github.com/Geeky-Utkarsh/LeetCode_Questions/tree/master/1741-find-total-time-spent-by-each-employee) |
