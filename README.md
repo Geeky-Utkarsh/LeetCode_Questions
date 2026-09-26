@@ -700,6 +700,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0181-employees-earning-more-than-their-managers](https://github.com/Geeky-Utkarsh/LeetCode_Questions/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0197-rising-temperature](https://github.com/Geeky-Utkarsh/LeetCode_Questions/tree/master/0197-rising-temperature) |
 | [0511-game-play-analysis-i](https://github.com/Geeky-Utkarsh/LeetCode_Questions/tree/master/0511-game-play-analysis-i) |
+| [0570-managers-with-at-least-5-direct-reports](https://github.com/Geeky-Utkarsh/LeetCode_Questions/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0577-employee-bonus](https://github.com/Geeky-Utkarsh/LeetCode_Questions/tree/master/0577-employee-bonus) |
 | [0584-find-customer-referee](https://github.com/Geeky-Utkarsh/LeetCode_Questions/tree/master/0584-find-customer-referee) |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/Geeky-Utkarsh/LeetCode_Questions/tree/master/0586-customer-placing-the-largest-number-of-orders) |
