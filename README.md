@@ -714,6 +714,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1204-last-person-to-fit-in-the-bus](https://github.com/Geeky-Utkarsh/LeetCode_Questions/tree/master/1204-last-person-to-fit-in-the-bus) |
 | [1211-queries-quality-and-percentage](https://github.com/Geeky-Utkarsh/LeetCode_Questions/tree/master/1211-queries-quality-and-percentage) |
 | [1280-students-and-examinations](https://github.com/Geeky-Utkarsh/LeetCode_Questions/tree/master/1280-students-and-examinations) |
+| [1378-replace-employee-id-with-the-unique-identifier](https://github.com/Geeky-Utkarsh/LeetCode_Questions/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1683-invalid-tweets](https://github.com/Geeky-Utkarsh/LeetCode_Questions/tree/master/1683-invalid-tweets) |
 | [1693-daily-leads-and-partners](https://github.com/Geeky-Utkarsh/LeetCode_Questions/tree/master/1693-daily-leads-and-partners) |
 | [1741-find-total-time-spent-by-each-employee](https://github.com/Geeky-Utkarsh/LeetCode_Questions/tree/master/1741-find-total-time-spent-by-each-employee) |
