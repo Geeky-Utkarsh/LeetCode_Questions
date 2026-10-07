@@ -268,6 +268,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0001-two-sum](https://github.com/27481/LeetCode_Questions/tree/master/0001-two-sum) |
 | [0031-next-permutation](https://github.com/27481/LeetCode_Questions/tree/master/0031-next-permutation) |
+| [0035-search-insert-position](https://github.com/Geeky-Utkarsh/LeetCode_Questions/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/Geeky-Utkarsh/LeetCode_Questions/tree/master/0041-first-missing-positive) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/27481/LeetCode_Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0215-kth-largest-element-in-an-array](https://github.com/27481/LeetCode_Questions/tree/master/0215-kth-largest-element-in-an-array) |
@@ -366,6 +367,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Geeky-Utkarsh/LeetCode_Questions/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/27481/LeetCode_Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/27481/LeetCode_Questions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/27481/LeetCode_Questions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
