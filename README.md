@@ -176,6 +176,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0859-buddy-strings](https://github.com/Geeky-Utkarsh/LeetCode_Questions/tree/master/0859-buddy-strings) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/27481/LeetCode_Questions/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0952-word-subsets](https://github.com/27481/LeetCode_Questions/tree/master/0952-word-subsets) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Geeky-Utkarsh/LeetCode_Questions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1160-letter-tile-possibilities](https://github.com/Geeky-Utkarsh/LeetCode_Questions/tree/master/1160-letter-tile-possibilities) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/27481/LeetCode_Questions/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1502-construct-k-palindrome-strings](https://github.com/27481/LeetCode_Questions/tree/master/1502-construct-k-palindrome-strings) |
@@ -406,6 +407,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Stack
 |  |
 | ------- |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Geeky-Utkarsh/LeetCode_Questions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/27481/LeetCode_Questions/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/27481/LeetCode_Questions/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Geeky-Utkarsh/LeetCode_Questions/tree/master/2021-remove-all-occurrences-of-a-substring) |
