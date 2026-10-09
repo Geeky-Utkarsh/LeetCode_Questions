@@ -167,6 +167,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/27481/LeetCode_Questions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0020-valid-parentheses](https://github.com/Geeky-Utkarsh/LeetCode_Questions/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/27481/LeetCode_Questions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/27481/LeetCode_Questions/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/27481/LeetCode_Questions/tree/master/0205-isomorphic-strings) |
@@ -407,6 +408,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Geeky-Utkarsh/LeetCode_Questions/tree/master/0020-valid-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Geeky-Utkarsh/LeetCode_Questions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/27481/LeetCode_Questions/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/27481/LeetCode_Questions/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
@@ -750,4 +752,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Geeky-Utkarsh/LeetCode_Questions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Geeky-Utkarsh/LeetCode_Questions/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
